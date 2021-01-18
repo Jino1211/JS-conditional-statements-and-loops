@@ -5,6 +5,6 @@ if (num1 === num2) {
     console.log("The numbers is equals");
 }
 else {
-    console.log("The larger number between "+ num1 +"and"+num2+" is " + max);
+    console.log("The larger number between "+ num1 +" and "+num2+" is " + max);
 }
    
